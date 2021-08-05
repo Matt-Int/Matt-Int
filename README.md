@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Mattias](@Matt-Int)
+- 👋 Hi, I’m [Mattias](https://github.com/Matt-Int/)
 - 👀 I’m interested in R, Python, and data science
 
 <!---
